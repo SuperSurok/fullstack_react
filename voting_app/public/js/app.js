@@ -6,7 +6,7 @@ class ProductList extends React.Component {
                 <Product
                     id={product.id}
                     title={product.title}
-                    descrition={product.description}
+                    description={product.description}
                     url={product.url}
                     votes={product.votes}
                     submitterAvatarUrl={product.submitterAvatarUrl}
